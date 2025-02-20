@@ -1,0 +1,96 @@
+{
+  "AthenaCharacter": {
+    "common": 800,
+    "uncommon": 800,
+    "rare": 800,
+    "epic": 800,
+    "legendary": 800,
+    "dark": 800,
+    "frozen": 800,
+    "icon": 800,
+    "lava": 800,
+    "marvel": 800
+  },
+  "AthenaPickaxe": {
+    "rare": 500,
+    "uncommon": 500,
+    "epic": 500,
+    "slurp": 500,
+    "dark": 500,
+    "frozen": 500,
+    "icon": 500,
+    "marvel": 500
+  },
+  "AthenaDance": {
+    "rare": 500,
+    "uncommon": 500,
+    "marvel": 500,
+    "epic": 500,
+    "common": 500,
+    "icon": 500
+  },
+  "AthenaGlider": {
+    "uncommon": 500,
+    "epic": 500,
+    "rare": 500,
+    "legendary": 500,
+    "dark": 500,
+    "icon": 500,
+    "frozen": 500,
+    "lava": 500,
+    "marvel": 500,
+    "common": 500
+  },
+  "AthenaLoadingScreen": {
+    "uncommon": 0,
+    "rare": 0,
+    "icon": 0,
+    "marvel": 0
+  },
+  "AthenaSkyDiveContrail": {
+    "rare": 1000,
+    "dark": 1000
+  },
+  "AthenaBackpack": {
+    "rare": 200,
+    "legendary": 200,
+    "epic": 200,
+    "uncommon": 200,
+    "dark": 200,
+    "frozen": 200,
+    "lava": 200,
+    "marvel": 200
+  },
+  "AthenaPet": {
+    "epic": 1000
+  },
+  "AthenaEmoji": {
+    "uncommon": 1000,
+    "marvel": 1000
+  },
+  "AthenaMusicPack": {
+    "common": 1000,
+    "rare": 1000
+  },
+  "AthenaPetCarrier": {
+    "epic": 1000
+  },
+  "AthenaSpray": {
+    "uncommon": 1000,
+    "icon": 1000,
+    "common": 1000,
+    "rare": 1000,
+    "epic": 1000,
+    "legendary": 1000,
+    "marvel": 1000
+  },
+  "AthenaToy": {
+    "rare": 1000,
+    "epic": 1000
+  },
+  "AthenaItemWrap": {
+    "rare": 1000,
+    "uncommon": 1000,
+    "epic": 1000
+  }
+}

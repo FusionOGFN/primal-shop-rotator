@@ -1,0 +1,62 @@
+{
+  "daily1": {
+    "itemGrants": [
+      "AthenaCharacter:CID_025_Athena_Commando_M"
+    ],
+    "price": 1200
+  },
+  "daily2": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_016_Disco"
+    ],
+    "price": 1000
+  },
+  "daily3": {
+    "itemGrants": [
+      "AthenaPickaxe:Pickaxe_ID_136_Math"
+    ],
+    "price": 500
+  },
+  "daily4": {
+    "itemGrants": [
+      "AthenaCharacter:CID_131_Athena_Commando_M_Warpaint"
+    ],
+    "price": 1500
+  },
+  "daily5": {
+    "itemGrants": [
+      "AthenaDance:EID_Disagree"
+    ],
+    "price": 200
+  },
+  "daily6": {
+    "itemGrants": [
+      "AthenaDance:EID_ElectroShuffle"
+    ],
+    "price": 800
+  },
+  "featured1": {
+    "itemGrants": [
+      "AthenaBackpack:BID_245_BaseballKitbashFemale"
+    ],
+    "price": 500
+  },
+  "featured2": {
+    "itemGrants": [
+      "AthenaBackpack:BID_069_DecoMale"
+    ],
+    "price": 800
+  },
+  "featured3": {
+    "itemGrants": [
+      "AthenaBackpack:BID_042_Fishhead"
+    ],
+    "price": 1000
+  },
+  "featured4": {
+    "itemGrants": [
+      "AthenaGlider:Glider_RoadTrip"
+    ],
+    "price": 500
+  }
+}
